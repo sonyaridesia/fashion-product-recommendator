@@ -3,6 +3,5 @@ PyYAML
 tqdm
 scikit-learn
 streamlit
-pickle
 opencv-python
 bing-image-downloader
